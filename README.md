@@ -1,6 +1,5 @@
 OOP-Project
 
-'''
 - application title
 - author: 
   * id: ---
